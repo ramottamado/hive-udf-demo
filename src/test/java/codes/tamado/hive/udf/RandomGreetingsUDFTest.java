@@ -1,4 +1,4 @@
-package codes.tamado.udf;
+package codes.tamado.hive.udf;
 
 import java.util.Arrays;
 import java.util.List;

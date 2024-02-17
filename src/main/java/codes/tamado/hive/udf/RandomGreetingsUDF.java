@@ -2,7 +2,7 @@
  * Copyright (c) 2024 PT Duta Sarana Inovasi. All rights reserved.
  */
 
-package codes.tamado.udf;
+package codes.tamado.hive.udf;
 
 import java.util.Random;
 
